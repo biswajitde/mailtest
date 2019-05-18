@@ -1,0 +1,36 @@
+EHLO moto
+MAIL FROM: [[SENDER_EMAIL]]
+RCPT TO: [[RECEIPIENT_EMAIL]]
+DATA
+To: [[DISPLAYED_RECIPIENT_EMAIL]]
+Subject: [[SUBJECT]]
+Date: [[18 May 2019 15:00:00]]
+Content-Type: multipart/mixed;
+ boundary="dummy_boundary"
+Content-Transfer-Encodeing: abit
+From: [[DISPLAYED SENDER EMAIL]]
+
+--dummy_boundary
+Content-Type: text/plain; charset-us-ascii
+
+[[
+MESSAGE BODY
+]]
+
+
+
+
+
+
+--dummy_boundary
+Content-Type: application/zip; name="[[filename]]"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename-[[filename]]
+
+[[
+  BASE64 ENCODED FILE
+]]
+
+--dummy_boundary--
+.
+QUIT 

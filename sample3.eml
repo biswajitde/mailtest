@@ -1,0 +1,98 @@
+EHLO moto
+MAIL FROM: Sharda_t@trendmicrro.com
+RCPT TO: allofindiase@dl.trendmicro.com
+DATA
+To: allofindiase@dl.trendmicro.com
+Subject: SE Interlock
+Date: [[18 May 2019 15:00:00]]
+Content-Type: multipart/mixed;
+ boundary="dummy_boundary"
+Content-Transfer-Encodeing: abit
+From: Sharda Tickoo(SAL-IN) <sharda_tickoo@trendmicro.com>
+
+--dummy_boundary
+Content-Type: text/plain; charset-us-ascii
+
+
+Agenda for 3 days :
+
+Day 1 : Hybrid cloud security
+Docker, containers basics in detail
+Inter container traffic monitoring using DS : How to demo and do a POC
+Container hands on lab
+Introduction to RASP and application security
+How to demo application security
+Competitive landscape discussion
+
+Day 2 : Network Defense=20
+How to demo DDI : DDTK demo scenarios
+DDAN,DDD,DDNA : How to pitch, demo
+Integration use cases with third party and Trend Micro products
+Tipping point : Learnings from boot camp and summit
+Tipping point Cloud : What is this and how to leverage?
+Discussion : DD vs TP: What to pitch where.
+
+Day 3 : User Protection
+What is EDR? Need for EDR
+How to pitch Trend Micro EDR
+MITRE framework details
+Positioning against standalone EDR vendors
+How to demo EDR? Use cases=
+Competitive landscape discussion
+MDR ( tentative )
+Labs  Pre-Requisites.
+
+
+
+Hybrid Cloud:-
+
+
+VMware Workstation or Virtual Box. 
+https://www.virtualbox.org/wiki/Downloads
+
+CentOS Minimal  -
+https://trendmicro.sharepoint.com/:u:/s/Indiatechteam/ET3Q9jI7ZI1Njax0TPk-b=
+RMBbR865z0yuF2_E7C82hDK8w?e=3DSyhvQ1
+
+Resources
+2 Core , 4GB RAM, 20 GB HDD
+DSaaS Account =E2=80=93 every user has to get
+https://app.deepsecurity.trendmicro.com/SignIn.screen
+
+
+Network Defense:-
+
+
+VMware Workstation or Virtual Box.  
+https://www.virtualbox.org/wiki/Downloads
+DDITK OVA to be downloaded and kept so it can be imported, if there is spac=
+e keep it imported.
+https://trendmicro.sharepoint.com/:u:/s/Indiatechteam/EYquhYM-y-ZFv632gvr50=
+MIB4_UYdTYi8Yj17r5uWQI23Q?e=3DuVejn6
+
+For any issues/clarifications with respect to pre-requisites, please contac=
+t Biswajit.
+
+Regards,
+Sharda Tickoo
+From: sharda_t@trendmicro.com
+When: 9:00 AM - 6:00 PM May 20, 2019=20
+Subject: SE Interlock
+Location: Trident BKC, Mumbai=20
+
+
+
+
+
+
+
+--dummy_boundary
+Content-Type: application/zip; name=Zoom_meeting_Details.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename-Zoom_meeting_Details.pdf
+
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+
+--dummy_boundary--
+.
+QUIT 
